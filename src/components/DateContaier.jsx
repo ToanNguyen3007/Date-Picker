@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import DayDisplay from "./DayDisplay";
 import "./date.css"
 const DateContainer = () => {
